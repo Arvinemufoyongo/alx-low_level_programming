@@ -1,9 +1,9 @@
 #include "main.h"
 #include <string.h>
 /**
- * _strcat - concatenates two strings
- * @dest: input value
- * @src: input value
+ * _strncat - conctenates two strings
+ * @dest: destination string
+ * @src: source
  * @n: number of bytes to concentrate
  * Return: void
  */
