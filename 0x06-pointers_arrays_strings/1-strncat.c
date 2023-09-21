@@ -5,7 +5,7 @@
  * @dest: destination string
  * @src: source
  * @n: number of bytes to concentrate
- * Return: void
+ * Return: dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
